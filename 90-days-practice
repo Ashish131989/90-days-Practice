@@ -1,0 +1,46 @@
+
+90 days -> 
+Node JS + SQL/NoSQL -> 23 days
+Node JS: 
+Basic Concepts:
+JavaScript: DAYS [2 day]
+o	Variable hoisting,
+o	Prototype chain – Function prototype, Object Prototype, 
+o	bind (), call(), apply()
+o	Closure in JavaScript
+o	All function –  map(), filter(), concat(), sort(), every(), some(),includes(), joins(), reduce(), shift(), unshift()
+o	In Built function 
+	Object. Keys(), Other functions
+	Process
+o	JSON Operation 
+o	File Operations, File Systems, OS module – multer
+o	Global Objects and Functions
+o	NODE Events – Single threaded, diagram, multithreading approach, Event Emitter, Global Objects [1 DAY]
+o	Callback, promises, Promise chaining, async await, Asynchronous Operation. (Callback Hell – How to avoid it) [1 DAY]
+o	Generator Function [1 DAY]
+o	Default JavaScript function – SetTimeOut, setInterval (Difference to be asked in Interview) When to use
+o	Node JS Buffer
+o	Error Handling
+Advanced Topics:
+•	Stream [1DAY]
+•	Socket I/O
+•	Crypto, Encryption, Logging
+•	API Integration – axios module, node-fetch, [1DAY]
+•	Utility Libraries:  Utility Libraries
+•	Security Modules - helmet
+•	Logging Module – Winston
+•	Server Creation in Node JS using Express and Other Framework, http. [1DAY]
+•	Caching Techniques – Local Cacheing, Node-cache, Redis [1DAY]
+•	Rest API => Express Js, Morgan, Front End – PUG module. [9 DAYS]
+o	CURD Operation, Get, Post Put, Delete
+o	No SQL DB Integration - Mongoose, Sequelize:
+o	 
+•	Authentication: Passport.js, JSON Web Token (jsonwebtoken), TTS/TLS – Single Signon [1 DAY]
+•	Desing Patterns Module pattern, Single ton, Factory, Observer – More to see [1 DAY]
+•	TDD – Jest, Mocha, Chai, Sinon, Nock. [1 DAY]
+•	PDF Report Generation – pdfkit, puppeteer, xlsx, exceljs, Chart.js (via Node.js wrapper), d3.js (via Node.js), nodemailer [1 DAY]
+•	Load Balancer [1 DAY]
+•	Notification : Twilio, nodemailer, Browser Push Notification, node-schedule [1 DAY]
+•	Performance Monitoring [1 DAY]
+
+
